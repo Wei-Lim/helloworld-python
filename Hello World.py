@@ -13,3 +13,4 @@ plt.plot(x, np.sin(x))       # Plot the sine of each x point
 plt.show()                   # Display the plot
 
 type(x)
+
