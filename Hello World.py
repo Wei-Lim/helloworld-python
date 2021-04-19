@@ -14,3 +14,5 @@ plt.show()                   # Display the plot
 
 type(x)
 
+# fdkjlöasdfnöejbröadfg
+
